@@ -21,7 +21,7 @@
                          目前问题：晶体无法起振，已经在taobao上面购买了USBtinyISP打算试着下载Bootloader\
 　       　　　20160815；购买了USBtinyISP下载Bootloader完成了，终于可以用了！开心ing！使用教程如下：\
  【入门指南】图解如何使用 USBTinyIsp\
-http://www.arduino.cn/forum.php? ... 21619&fromuid=82799\
+http://www.arduino.cn/forum.php? ... 21619&fromuid=82799
      20160816；版本升级至Xduino_Uno_Rev3.02；
                         修正20160812上述BUG；
                         优化：reset按钮位置移至官方一致，且增加插件按钮封装；ICSP增加USBtinyISP烧写方向标识
