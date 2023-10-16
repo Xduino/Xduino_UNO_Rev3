@@ -16,14 +16,14 @@
 　       　　　g.USB转串口ISP程序下载芯片由ATMEGA16U2-QFN32改为了国产沁恒CH340G SOP-16封装，原因“成本，还有QFN32封装焊接比较困难；<br>
 　　       　　h.修改了LED发光管的放置顺序、修改了按钮放置位置、修改了ATMEGA328P晶体封装为49S-3p，还有其他一些记不住了。 <br>
     帖子更新日志：
-      20160729；试制PCB板到货8pcs，添加裸板照片；
-      20160808；焊接成品2pin，添加连接成功的照片；
-      20160809；重要消息，附件的图纸有几个重大的bug，请大家不要下载。目前故障还在查找中。
-      20160812；已知BUG；TXD\RXD对调、AVCC\AGND没有连接；  
-                         目前问题：晶体无法起振，已经在taobao上面购买了USBtinyISP打算试着下载Bootloader
-      20160815；购买了USBtinyISP下载Bootloader完成了，终于可以用了！开心ing！使用教程如下：
- 【入门指南】图解如何使用 USBTinyIsp
-http://www.arduino.cn/forum.php? ... 21619&fromuid=82799
+      20160729；试制PCB板到货8pcs，添加裸板照片；\
+      20160808；焊接成品2pin，添加连接成功的照片；\
+      20160809；重要消息，附件的图纸有几个重大的bug，请大家不要下载。目前故障还在查找中。\
+      20160812；已知BUG；TXD\RXD对调、AVCC\AGND没有连接；  \
+                         目前问题：晶体无法起振，已经在taobao上面购买了USBtinyISP打算试着下载Bootloader\
+      20160815；购买了USBtinyISP下载Bootloader完成了，终于可以用了！开心ing！使用教程如下：\
+ 【入门指南】图解如何使用 USBTinyIsp\
+http://www.arduino.cn/forum.php? ... 21619&fromuid=82799\
 
      20160816；版本升级至Xduino_Uno_Rev3.02；
                         修正20160812上述BUG；
