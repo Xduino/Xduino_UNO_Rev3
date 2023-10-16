@@ -7,8 +7,8 @@
        2、由于考虑到授权问题PCB文件内没有“Arduino”字样，随便想了一个名字“Xduino”。
        3、文件版本：Xduino_UNO_Rev3.01。日期：20160714
        4、修改内容如下：
-　　　　       a.USB-B接口修改为MINIUSB-SO5P；<br>
-　　　       　b.前端2颗贴片25V47μF固态电容修改为插件50V47μF与25V47μF电解电容；<br>
+　　　　       a.USB-B接口修改为MINIUSB-SO5P；\
+　　　       　b.前端2颗贴片25V47μF固态电容修改为插件50V47μF与25V47μF电解电容；\
 　　　       　c.Ti的运算放大器采用双封装LMV358IDGKR-（MSOP8-0.65）与LMV358IDR（SOIC-8P)，PS：原因还是成本1.x元，后者0.6元左右；<br>
 　　　　       d.5V转3.3V的LDO修改为LM1117MPX-3.3（手头上只有这个，电流1A）；<br>
 　       　　　e.考虑到24V转5V散热够呛，增加了DCDC小板焊盘；<br>
