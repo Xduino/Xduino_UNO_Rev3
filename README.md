@@ -1,7 +1,9 @@
 # Xduino_UNO_Rev3
 # 我是Arduino.cn ID:angelcsf 学习一下Github，把Xudino_UNO资料共享一下。原帖地址 https://www.arduino.cn/thread-22045-1-1.html
-由于学校里面一直教的EDA软件是Protel 99SE，DXP\AD10\AD16等ALTIUM DESIGNER系列软件，16年6月底开始接触Arduino后，开始使用EAGLE的EDA软件，感觉很不习惯。而且网上Arduino没有采用ALTIUM系列软件设计的原理图与PCB图纸，所以我就开始动手了，基本上是7月初开始动手的。废话不多说，直接上图（EDA软件版本AD10）。
+由于学校里面一直教的EDA软件是Protel 99SE，DXP\AD10\AD16等ALTIUM DESIGNER系列软件，16年6月底开始接触Arduino后，开始使用EAGLE的EDA软件，感觉很不习惯。而且网上Arduino没有采用ALTIUM系列软件设计的原理图与PCB图纸，所以我就开始动手了，基本上是7月初开始动手的。废话不多说，直接上图（EDA软件版本AD10.
+
        1、首先，感谢一下www.arduino.cn、www.arduino.cc提供的EAGLE版本的原理图与PCB图纸。
+
        2、由于考虑到授权问题PCB文件内没有“Arduino”字样，随便想了一个名字“Xduino”。
        3、文件版本：Xduino_UNO_Rev3.01。日期：20160714
        4、修改内容如下：
